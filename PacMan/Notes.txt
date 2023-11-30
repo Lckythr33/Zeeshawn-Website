@@ -1,0 +1,21 @@
+Create a wireframe
+iterate on the wireframe
+
+-Create HTML CSS first
+
+iterate on the front end
+
+build the back end2
+
+
+#mydiv { 
+  visibility:hidden;
+ }
+Inside your html file
+
+<div id="mydiv">
+   <p>Hello world</p>
+</div>
+<script type="text/javascript">
+   document.getElementById('mydiv').style.visibility='visible';
+</script>
